@@ -94,7 +94,7 @@ The plugin only uses long-stable Eclipse platform API (`org.eclipse.ui.startup`,
 
 ## Building
 
-Requires a **JDK ≥ 21** and **bash** (Git Bash on Windows works).
+Requires a **JDK ≥ 25** (the 4diac IDE 3.4 platform jars are Java 25 class files) and **bash** (Git Bash on Windows works).
 
 ```bash
 bash build.sh                                  # downloads the pinned 4diac IDE ZIP once into build/
